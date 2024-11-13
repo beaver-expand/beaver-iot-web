@@ -109,3 +109,4 @@ dist
 
 # i18n export & check directory
 packages/locales/.export
+.history
